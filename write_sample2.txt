@@ -1,0 +1,2 @@
+Hello
+write_sample2 text file
